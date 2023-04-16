@@ -1,0 +1,15 @@
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\bin\Debug\net6.0\14AprelTaskHome.exe
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\bin\Debug\net6.0\14AprelTaskHome.deps.json
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\bin\Debug\net6.0\14AprelTaskHome.runtimeconfig.json
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\bin\Debug\net6.0\14AprelTaskHome.dll
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\bin\Debug\net6.0\14AprelTaskHome.pdb
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.csproj.AssemblyReference.cache
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.AssemblyInfoInputs.cache
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.AssemblyInfo.cs
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.csproj.CoreCompileInputs.cache
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.dll
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\refint\14AprelTaskHome.dll
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.pdb
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\14AprelTaskHome.genruntimeconfig.cache
+C:\Users\victu\Desktop\14AprelTaskHome\14AprelTaskHome\obj\Debug\net6.0\ref\14AprelTaskHome.dll
